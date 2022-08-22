@@ -1,81 +1,31 @@
-[{
-  "id": 1,
-  "name": "Bubblebox",
-  "email": "bcridlon0@msu.edu"
-}, {
-  "id": 2,
-  "name": "Blognation",
-  "email": "dgarlant1@spiegel.de"
-}, {
-  "id": 3,
-  "name": "Thoughtsphere",
-  "email": "dcripps2@nationalgeographic.com"
-}, {
-  "id": 4,
-  "name": "Geba",
-  "email": "ydumini3@washingtonpost.com"
-}, {
-  "id": 5,
-  "name": "Wikizz",
-  "email": "tgasticke4@amazon.com"
-}, {
-  "id": 6,
-  "name": "Jatri",
-  "email": "tegre5@goo.ne.jp"
-}, {
-  "id": 7,
-  "name": "Trudeo",
-  "email": "epantridge6@bloomberg.com"
-}, {
-  "id": 8,
-  "name": "Youbridge",
-  "email": "jbresnen7@xrea.com"
-}, {
-  "id": 9,
-  "name": "Linkbuzz",
-  "email": "jshackell8@ask.com"
-}, {
-  "id": 10,
-  "name": "Kwideo",
-  "email": "bdearnly9@chronoengine.com"
-}, {
-  "id": 11,
-  "name": "Youopia",
-  "email": "mlaleveea@hud.gov"
-}, {
-  "id": 12,
-  "name": "Mymm",
-  "email": "ablasiusb@jigsy.com"
-}, {
-  "id": 13,
-  "name": "Flipopia",
-  "email": "rlenhamc@plala.or.jp"
-}, {
-  "id": 14,
-  "name": "Linkbridge",
-  "email": "lcourceyd@chicagotribune.com"
-}, {
-  "id": 15,
-  "name": "Realpoint",
-  "email": "jwiddecombee@cocolog-nifty.com"
-}, {
-  "id": 16,
-  "name": "Shuffledrive",
-  "email": "arochesf@histats.com"
-}, {
-  "id": 17,
-  "name": "Innotype",
-  "email": "jyarnallg@blogtalkradio.com"
-}, {
-  "id": 18,
-  "name": "Realblab",
-  "email": "csalvadoreh@moonfruit.com"
-}, {
-  "id": 19,
-  "name": "Digitube",
-  "email": "mduseyi@squidoo.com"
-}, {
-  "id": 20,
-  "name": "Yozio",
-  "email": "vhailyj@qq.com"
-}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
