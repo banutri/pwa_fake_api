@@ -1,0 +1,19 @@
+{
+  "name": "pwa_jajal",
+  "version": "0.0.1",
+  "description": "mencoba pwa lagi",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banutri/pwa_fake_api.git"
+  },
+  "author": "banu triyantoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banutri/pwa_fake_api/issues"
+  },
+  "homepage": "https://github.com/banutri/pwa_fake_api#readme"
+}
